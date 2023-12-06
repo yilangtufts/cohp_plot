@@ -15,5 +15,5 @@ cohp_plot.py [-h] [-a atom_pairs [atom_pairs ...]] [-c colors [colors ...]] [-f 
 -f, --filename: Specify the output file name for the generated plots. Example: cohp.  
 
 ## Example usage
-cohp_plot.py -a O-Pt Si-Pt Zn-Pt -c red gold blue -f cohp  
+'cohp_plot.py -a O-Pt Si-Pt Zn-Pt -c red gold blue -f cohp'  
 This will plot the COHP between O and Pt, Si and Pt, Zn and Pt, with colors of red, gold, blue, respectively, and will save a png image named "cohp".  
